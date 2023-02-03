@@ -2,4 +2,4 @@ langchain
 cohere 
 pinecone-client
 openai
-PIL
+Pillow==9.2.0
