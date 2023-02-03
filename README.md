@@ -1,1 +1,1 @@
-# tafsir-Quran_sementic_search
+# Tafsir-Quran_Semantic_Search
